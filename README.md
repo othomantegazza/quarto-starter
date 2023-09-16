@@ -26,4 +26,4 @@ The analysis will be available at localhost:4200.
 
 # License
 
-See file [LICENSE](LICENSE)
+See file [LICENSE](LICENSE).
