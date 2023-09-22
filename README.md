@@ -2,6 +2,14 @@
 
 A Quarto project starter for the workshop in [Data Visualization for Scientists](https://github.com/othomantegazza/dataviz-for-scientists-slides/).
 
+# Use
+
+1. Fork and clone this repo.
+
+2. Change the project title in [_quarto.yml](_quarto.yml).
+
+3. Edit at will. Enjoy.
+
 # Deploy Locally
 
 To deploy locally:
