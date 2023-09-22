@@ -8,7 +8,7 @@ A Quarto project starter for the workshop in [Data Visualization for Scientists]
 
 2. Change the project title in [_quarto.yml](_quarto.yml).
 
-3. Edit at will. Enjoy.
+3. Edit at will, starting from [index.qmd](index.qmd). Enjoy.
 
 # Deploy Locally
 
